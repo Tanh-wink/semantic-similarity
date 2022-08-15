@@ -1,8 +1,8 @@
-# semantic-similarity
+# semantic similarity-question pair similarity matching
 # 语义相似度-问题相似对匹配
 
-两个模型：word2vec+wmd 和 bert+wmd
+two models：word2vec+wmd and bert+wmd
 
-每一种模型详细说明都在各自的目录下的readme.md文件
+Each model has more details in the readme.md file in its own directory
 
-wmd词移距离的理解：https://spaces.ac.cn/archives/7388
+Word Mover's Distance（wmd）：https://spaces.ac.cn/archives/7388
