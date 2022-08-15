@@ -1,5 +1,6 @@
-# semantic similarity-question pair similarity matching
-# 语义相似度-问题相似对匹配
+# semantic similarity
+# question pair similarity matching
+## 语义相似度-问题相似对匹配
 
 two models：word2vec+wmd and bert+wmd
 
