@@ -1,4 +1,4 @@
-# bert+wmd模型
+# bert+wmd
 1.运行环境  
 python3.6  
 pytorch  
