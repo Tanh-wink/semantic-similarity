@@ -1,4 +1,4 @@
-[Enlish](README.md) | 简体中文
+[English](README.md) | 简体中文
 
 # semantic similarity
 ## 语义相似度-问题相似对匹配
