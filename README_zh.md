@@ -1,5 +1,7 @@
+[Enlish](README.md) | 简体中文
 
-语义相似度-问题相似对匹配
+# semantic similarity
+## 语义相似度-问题相似对匹配
 
 两种模型：word2vec+wmd 和 bert+wmd
 
