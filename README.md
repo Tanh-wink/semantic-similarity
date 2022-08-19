@@ -1,7 +1,7 @@
 English | [简体中文](README_zh.md)
 
 # semantic similarity
-## question pair similarity matching
+## Question pair similarity matching
 
 two models：word2vec+wmd and bert+wmd
 
